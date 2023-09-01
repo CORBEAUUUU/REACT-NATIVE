@@ -1,0 +1,17 @@
+export const colors = {
+	primary_0: "#2C4D7B",
+	primary_1: "#3865A1",
+	primary_2: "#4A7DC2",
+	primary_3: "#7099D0",
+	primary_4: "#95B4DD",
+	secondary_0: "#875730",
+	secondary_1: "#AD6F3C",
+	secondary_2: "#C68956",
+	secondary_3: "#D4A37C",
+	secondary_4: "#E1BEA1",
+	light_0: "hsla(0, 0%, 5%, 1)",
+	light_1: "hsla(0, 0%, 20%, 1)",
+	light_2: "hsla(0, 0%, 50%, 1)",
+	light_3: "hsla(0, 0%, 75%, 1)",
+	light_4: "hsla(0, 0%, 95%, 1)",
+};
